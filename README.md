@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=yeonuy&animation=fadeIn&desc=YeonjeongYu&descAlignY=56&reversal=true&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=yeonuy&animation=fadeIn&desc=YeonjeongYu&descAlignY=56&reversal=false&fontAlignY=40&fontColor=ffffff)
 
 <!--
 **yeonuy/yeonuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
